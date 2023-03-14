@@ -1,4 +1,5 @@
 /*
+Chapter 2 exercises
 2.4.5.1 Cat-o-matique
  */
 
